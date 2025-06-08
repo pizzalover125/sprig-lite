@@ -4,7 +4,7 @@ author: "pizzalover125"
 description: "A mini game console."
 created_at: "2025-06-25"
 ---
-**Time Spent: 7 hours**
+**Time Spent: 8 hours**
 ### 6/5/25
 A couple of years ago, I got introduced to the attiny85 in an electronics class. I basically built this exact project on a breadboard. That was SUPER cool and was where I began my electronics journey. Ok so I began with the PCB. Schematic was super simple, as the attiny85 is super simple. Originally, I was thinking to have a CR2032 for a battery as it is super small and minimalist. Then I realized that I could make a game console fit on the back of 2 AA batteries. I also liked that because it would give me infinite battery life. So I went with that. I then made the PCB layout and routed everything super fast. It was super easy. 
 ![image](https://github.com/user-attachments/assets/c3d7c2f5-2123-4e29-8276-62156d9abbfe)
