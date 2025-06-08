@@ -1,0 +1,8 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+BT1,BatteryHolder_Keystone_2462_2xAA,1,Battery,
+"BUTTON1, BUTTON2, BUTTON3",SW_PUSH_6mm_H4.3mm,3,SW_Push,
+D1,LED_D3.0mm,1,LED,
+OLED1,MODULE_DM-OLED096-636,1,DM-OLED096-636,
+POWERSWITCH1,SW_EG1218,1,SW_Wuerth_450301014042,
+"R1, R2, R3, R4",R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,4,1K,
+U1,DIP-8_W7.62mm,1,ATtiny85,
