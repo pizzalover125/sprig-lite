@@ -1,5 +1,5 @@
 # sprig-lite
-A miniature version of the Sprig game console.
+A miniature version of the Sprig game console. Other people have made epic games on https://electronoobs.com/eng_arduino_tut120_code1.php, so I'll adapt that code to work with my console.
 
 ## Images:
 ![image](https://github.com/user-attachments/assets/830ad957-dc60-406b-bb02-4673f8bdbb8f)
