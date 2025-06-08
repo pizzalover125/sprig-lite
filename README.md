@@ -1,4 +1,4 @@
-# sprig-lite
+![image](https://github.com/user-attachments/assets/b53b81cb-07f8-487f-93d0-7a17f19da2e2)![image](https://github.com/user-attachments/assets/29412303-48de-4da7-ae4d-225a4cf6336b)# sprig-lite
 A miniature version of the Sprig game console.
 
 ## Images:
@@ -7,4 +7,17 @@ A miniature version of the Sprig game console.
 ![image](https://github.com/user-attachments/assets/478552ae-f8ac-47f9-a9ae-e8780fa2a84c)
 ![image](https://github.com/user-attachments/assets/b9870e22-a5ce-4362-98ea-669ff968064f)
 
-## BOM
+## BOM 
+NOTE: I am not using AliExpress because they are super unreliable and misdelivered my old package. Fourtanetly, I found it at my neighbor's house. They also just mark it as delivered when it is out for delivery. Also tariffs. 
+* 5x EG1218 Slide Switch
+* 2x Attiny85 w/ Socket
+* 40x 1k Resistors
+* 2x i2c 0.96" OLED
+* 1x Keystone 2462 Battery Holder
+![image](https://github.com/user-attachments/assets/fba87373-ab65-445b-993c-f0b58a34192f)
+
+$49.55 w/ tax + shipping
+
+* 5x JLC PCB ($15.55)
+
+**Total: $65.10**
