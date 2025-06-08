@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b53b81cb-07f8-487f-93d0-7a17f19da2e2)![image](https://github.com/user-attachments/assets/29412303-48de-4da7-ae4d-225a4cf6336b)# sprig-lite
+# sprig-lite
 A miniature version of the Sprig game console.
 
 ## Images:
