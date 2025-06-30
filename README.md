@@ -1,11 +1,13 @@
 # sprig-lite
-A miniature version of the Sprig game console. 
+A miniature version of the Sprig game console. Featuring the smallest, Arduino-compatible DIP processor and 3 push buttons!
 
 ## Images:
 ![image](https://github.com/user-attachments/assets/830ad957-dc60-406b-bb02-4673f8bdbb8f)
 ![image](https://github.com/user-attachments/assets/8a726e69-3394-4c86-991d-ac44496ac3ce)
 ![image](https://github.com/user-attachments/assets/478552ae-f8ac-47f9-a9ae-e8780fa2a84c)
-![image](https://github.com/user-attachments/assets/b9870e22-a5ce-4362-98ea-669ff968064f)
+![image](https://github.com/user-attachments/assets/77b95ff8-e50c-4d81-a3b0-2678251f4ca5)
+![image](https://github.com/user-attachments/assets/a8ac27dd-a33a-4e42-beba-563a85a68399)
+![image](https://github.com/user-attachments/assets/4c67e9ff-e41e-4a9a-a2db-d24858dc3cda)
 
 ## BOM 
 NOTE: I am not using AliExpress because they are super unreliable and misdelivered my old package. Fourtanetly, I found it at my neighbor's house. They also just mark it as delivered when it is out for delivery. Also tariffs. 
