@@ -16,15 +16,20 @@ NOTE: I am not using AliExpress because they are super unreliable and misdeliver
 * 40x 1k Resistors
 * 2x i2c 0.96" OLED
 * 1x Keystone 2462 Battery Holder
-* 1x Arduino Uno R3 (to program the board) 
-![image](https://github.com/user-attachments/assets/76c0e592-957e-44da-9ffa-e4704efdd9b9)
-
+* 1x Arduino Uno R3 (to program the board)
+  
+![image](https://github.com/user-attachments/assets/76c0e592-957e-44da-9ffa-e4704efdd9b9) 
 
 $57.14 w/ tax + shipping
+
+* 1x Foam Tape
+* Misc Screws
+
+$15.00 from Home Depot w/ tax
 
 * 5x JLC PCB ($15.55)
 * Breadboard Wires (FREE)
 * 3mm LEDs (FREE)
 * 6mm Buttons (FREE)
 
-**Total: $72.69**
+**Total: $87.69**
